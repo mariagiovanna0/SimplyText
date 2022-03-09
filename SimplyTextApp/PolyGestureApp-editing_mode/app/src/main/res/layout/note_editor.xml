@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2010 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/sample_main_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.example.android.polyGestureApp.MyNewTextView
+        android:id="@+id/note1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:inputType="textMultiLine|textNoSuggestions"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="70dp"
+        android:textSize="22sp"
+        android:gravity="top" 
+        android:background="@android:color/transparent" />
+
+
+
+    <RelativeLayout
+        android:layout_width="500dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/arrows"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="invisible"
+        android:padding="50dp"
+        >
+
+        <ImageButton
+            android:id="@+id/buttonmove"
+            android:layout_width="54dp"
+            android:layout_height="54dp"
+            android:layout_marginRight="50dp"
+            android:layout_toLeftOf="@id/buttonSu"
+            android:background="@drawable/trascinare"
+            />
+        <ImageButton
+            android:id="@+id/buttonghost"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:layout_marginLeft="50dp"
+            android:layout_toRightOf="@id/buttonSu"
+            android:backgroundTint="#F44336"
+            android:background="@drawable/chiudi"
+            />
+        <ImageButton
+            android:id="@+id/buttonBackward"
+            android:layout_width="74dp"
+            android:layout_height="74dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/sx"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@id/buttonSelect"
+            />
+        <ImageButton
+            android:id="@+id/buttonAnnulla"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="200dp"
+            android:layout_toRightOf="@id/buttonGiu"
+            android:background="@drawable/indietro"
+            android:backgroundTint="#000000"
+            />
+        <ImageButton
+            android:layout_width="74dp"
+            android:layout_height="74dp"
+            android:id="@+id/buttonSelect"
+            android:backgroundTint="#0D2BF1"
+            android:visibility="visible"
+            android:background="@drawable/select"
+            android:layout_below="@id/buttonSu"
+            />
+        <ImageButton
+            android:layout_width="74dp"
+            android:layout_height="74dp"
+            android:id="@+id/buttonIncolla"
+            android:backgroundTint="#18AA0E"
+            android:visibility="invisible"
+            android:background="@drawable/incolla"
+            android:layout_below="@id/buttonSu"
+            />
+        <ImageButton
+            android:layout_width="37dp"
+            android:layout_height="74dp"
+            android:id="@+id/buttonCopia"
+            android:backgroundTint="#F44336"
+            android:visibility="invisible"
+            android:background="@drawable/copia"
+            android:layout_below="@id/buttonSu"
+            />
+        <ImageButton
+            android:layout_width="37dp"
+            android:layout_height="74dp"
+            android:id="@+id/buttonTaglia"
+            android:backgroundTint="#0D2BF1"
+            android:visibility="invisible"
+            android:background="@drawable/scissors"
+            android:layout_toRightOf="@id/buttonCopia"
+            android:layout_below="@id/buttonSu"
+            />
+
+        <ImageButton
+            android:layout_width="74dp"
+            android:layout_marginLeft="20dp"
+            android:layout_height="74dp"
+            android:id="@+id/buttonForward"
+            android:layout_toRightOf="@id/buttonSelect"
+            android:background="@drawable/dx"
+            android:layout_centerVertical="true"
+            />
+        <ImageButton
+            android:id="@+id/buttonSu"
+            android:layout_width="74dp"
+            android:layout_height="74dp"
+            android:background="@drawable/su"
+            android:layout_marginBottom="20dp"
+            />
+        <ImageButton
+            android:layout_below="@id/buttonSelect"
+            android:layout_width="74dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="74dp"
+            android:id="@+id/buttonGiu"
+            android:background="@drawable/giu"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>
