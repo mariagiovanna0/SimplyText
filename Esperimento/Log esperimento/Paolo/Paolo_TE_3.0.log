@@ -1,0 +1,3570 @@
+1647595852343	PolyGesture	ExperimentStarted	Paolo
+1647595855126	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595855127	PolyGesture	InputEvent	TextChanged '' 0 0 0
+
+1647595855269	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595855270	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595855271	PolyGesture	TaskStarted	Cancella carattere
+
+1647595855272	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not evXen put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to beX when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 0 517 517
+
+1647595855277	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not evXen put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to beX when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 0 0 517
+
+1647595855280	PolyGesture	InputEvent	SelectionChanged 517 517
+
+1647595855303	PolyGesture	InputEvent	FocusChanged true 130 null
+
+1647595855334	PolyGesture	InputEvent	WindowFocusChanged true
+
+1647595858387	PolyGesture	InputEvent	TouchEvent (cursorPosition=517): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=720.0, y[0]=63.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x100000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598349004, downTime=598349004, deviceId=6, source=0x1002, displayId=0 }
+1647595858437	PolyGesture	InputEvent	TouchEvent (cursorPosition=517): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=720.0, y[0]=63.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x100000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598349066, downTime=598349004, deviceId=6, source=0x1002, displayId=0 }
+1647595858448	PolyGesture	InputEvent	SelectionChanged 82 82
+
+1647595858489	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595858490	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595858507	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595858528	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595858743	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595858756	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595858805	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859556	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859578	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595859581	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to beX when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 0 516 516
+
+1647595859585	PolyGesture	InputEvent	SelectionChanged 81 81
+
+1647595859586	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to beX when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 81 1 0
+
+1647595859590	PolyGesture	InputEvent	SelectionChanged 81 81
+
+1647595859600	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859607	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859608	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859610	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859630	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859633	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859634	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859636	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859636	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859638	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859639	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859641	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859839	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595859840	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595860257	PolyGesture	InputEvent	TouchEvent (cursorPosition=81): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=937.0, y[0]=371.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x100000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598350885, downTime=598350885, deviceId=6, source=0x1002, displayId=0 }
+1647595860304	PolyGesture	InputEvent	TouchEvent (cursorPosition=81): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=937.0, y[0]=371.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x100000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598350933, downTime=598350885, deviceId=6, source=0x1002, displayId=0 }
+1647595860313	PolyGesture	InputEvent	SelectionChanged 312 312
+
+1647595860346	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595860391	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595860579	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595860580	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595860602	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861301	PolyGesture	InputEvent	SelectionChanged 313 313
+
+1647595861313	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861327	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861529	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861530	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861852	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861883	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595861886	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to beXl when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 0 517 517
+
+1647595861891	PolyGesture	InputEvent	SelectionChanged 314 314
+
+1647595861892	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to beXl when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 310 3 4
+
+1647595861896	PolyGesture	InputEvent	SelectionChanged 314 314
+
+1647595861913	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861919	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861920	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861922	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861941	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861941	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861943	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861943	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861972	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861973	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861975	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861978	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861981	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595861983	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862007	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862008	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862011	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862012	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862035	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862035	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862215	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862216	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862471	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862483	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595862486	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to beX when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 0 516 516
+
+1647595862490	PolyGesture	InputEvent	SelectionChanged 313 313
+
+1647595862491	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to beX when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 310 4 3
+
+1647595862494	PolyGesture	InputEvent	SelectionChanged 313 313
+
+1647595862510	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862515	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862516	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862518	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862536	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862537	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862538	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862538	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862550	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862550	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862552	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862553	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862555	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862556	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862572	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862573	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862575	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862576	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862594	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862595	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862682	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862684	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862710	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862718	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595862720	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 0 515 515
+
+1647595862723	PolyGesture	InputEvent	SelectionChanged 312 312
+
+1647595862724	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he stroXlled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 310 3 2
+
+1647595862728	PolyGesture	InputEvent	SelectionChanged 312 312
+
+1647595862743	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862746	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862747	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862749	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862764	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862764	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862766	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862767	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862786	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862787	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862789	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862791	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862796	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862796	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862798	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862799	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862823	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862823	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862842	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595862843	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595863026	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595863028	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595863414	PolyGesture	InputEvent	TouchEvent (cursorPosition=312): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=755.0, y[0]=135.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x100000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598354028, downTime=598354028, deviceId=6, source=0x1002, displayId=0 }
+1647595863491	PolyGesture	InputEvent	TouchEvent (cursorPosition=312): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=755.0, y[0]=135.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x100000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598354120, downTime=598354028, deviceId=6, source=0x1002, displayId=0 }
+1647595863502	PolyGesture	InputEvent	SelectionChanged 132 132
+
+1647595863525	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595863563	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595863754	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595863764	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595863786	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864741	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864768	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595864771	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 0 514 514
+
+1647595864776	PolyGesture	InputEvent	SelectionChanged 131 131
+
+1647595864777	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the litXtle village where he had been so often lately was that no one knew who he was.' 131 1 0
+
+1647595864781	PolyGesture	InputEvent	SelectionChanged 131 131
+
+1647595864790	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864797	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864798	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864800	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864813	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864817	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864817	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864819	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864822	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864829	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864830	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595864831	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595865030	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595865031	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595865516	PolyGesture	InputEvent	TouchEvent (cursorPosition=131): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=679.0, y[0]=547.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x100000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598356137, downTime=598356137, deviceId=6, source=0x1002, displayId=0 }
+1647595865590	PolyGesture	InputEvent	TouchEvent (cursorPosition=131): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=679.0, y[0]=547.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x100000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598356220, downTime=598356137, deviceId=6, source=0x1002, displayId=0 }
+1647595865597	PolyGesture	InputEvent	SelectionChanged 484 484
+
+1647595865625	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595865668	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595865859	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595865870	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595865894	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595866574	PolyGesture	InputEvent	SelectionChanged 436 436
+
+1647595866594	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595866607	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595866809	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595866811	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595866831	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867265	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867291	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595867295	PolyGesture	TaskCompleted	Cancella carattere in 12"023 seconds (at 598357925, effective time: 8"921)
+
+***************************************
+
+
+1647595867307	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595867311	PolyGesture	InputEvent	SelectionChanged 435 435
+
+1647595867312	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 435 1 0
+
+1647595867316	PolyGesture	InputEvent	SelectionChanged 435 435
+
+1647595867326	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867370	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867370	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867371	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867382	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867385	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867388	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867389	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867390	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867394	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867395	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867408	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867595	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867596	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867903	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595867919	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595868273	PolyGesture	InputEvent	KeyDown 4 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=598358899, downTime=598358899, deviceId=-1, source=0x101, displayId=0 }
+
+1647595868277	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595868340	PolyGesture	InputEvent	WindowFocusChanged false
+
+1647595868383	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595868384	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595869264	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595869265	PolyGesture	InputEvent	TextChanged '' 0 0 0
+
+1647595869352	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595869353	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595869353	PolyGesture	TaskStarted	Cancella parola
+
+1647595869354	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf XXXXXX round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That XXXXXX is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little XXXXXX village where he had been so often lately was that no one knew who he was.' 0 534 534
+
+1647595869357	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf XXXXXX round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That XXXXXX is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little XXXXXX village where he had been so often lately was that no one knew who he was.' 0 0 534
+
+1647595869360	PolyGesture	InputEvent	SelectionChanged 534 534
+
+1647595869390	PolyGesture	InputEvent	FocusChanged true 130 null
+
+1647595869418	PolyGesture	InputEvent	WindowFocusChanged true
+
+1647595870339	PolyGesture	InputEvent	TouchEvent (cursorPosition=534): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=309.0, y[0]=126.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598360958, downTime=598360958, deviceId=6, source=0x1002, displayId=0 }
+1647595870398	PolyGesture	InputEvent	TouchEvent (cursorPosition=534): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=309.0, y[0]=126.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598361027, downTime=598360958, deviceId=6, source=0x1002, displayId=0 }
+1647595870406	PolyGesture	InputEvent	SelectionChanged 108 108
+
+1647595870436	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595870436	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595870448	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595870462	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595870672	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595870674	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595870693	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595871347	PolyGesture	InputEvent	SelectionChanged 109 109
+
+1647595871361	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595871374	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595871576	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595871577	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595873173	PolyGesture	InputEvent	TouchEvent (cursorPosition=109): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=172.0, y[0]=134.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598363801, downTime=598363801, deviceId=6, source=0x1002, displayId=0 }
+1647595873227	PolyGesture	InputEvent	TouchEvent (cursorPosition=109): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=172.0, y[0]=134.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598363856, downTime=598363801, deviceId=6, source=0x1002, displayId=0 }
+1647595873245	PolyGesture	InputEvent	SelectionChanged 103 103
+
+1647595873248	PolyGesture	InputEvent	SelectionChanged 109 103
+
+1647595873265	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595873269	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595873270	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595873273	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595873473	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595873476	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595873502	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874381	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874383	PolyGesture	InputEvent	SelectionChanged 109 109
+
+1647595874409	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595874413	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf  round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That XXXXXX is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little XXXXXX village where he had been so often lately was that no one knew who he was.' 0 528 528
+
+1647595874420	PolyGesture	InputEvent	SelectionChanged 103 103
+
+1647595874422	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf  round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That XXXXXX is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little XXXXXX village where he had been so often lately was that no one knew who he was.' 103 6 0
+
+1647595874426	PolyGesture	InputEvent	SelectionChanged 103 103
+
+1647595874440	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874445	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874446	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874455	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874459	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874461	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874464	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595874665	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595875142	PolyGesture	InputEvent	TouchEvent (cursorPosition=103): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=862.0, y[0]=320.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598365763, downTime=598365763, deviceId=6, source=0x1002, displayId=0 }
+1647595875216	PolyGesture	InputEvent	TouchEvent (cursorPosition=103): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=862.0, y[0]=320.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598365845, downTime=598365763, deviceId=6, source=0x1002, displayId=0 }
+1647595875224	PolyGesture	InputEvent	SelectionChanged 263 263
+
+1647595875246	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595875287	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595875493	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595875495	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595875518	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595876210	PolyGesture	InputEvent	TouchEvent (cursorPosition=263): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=678.0, y[0]=310.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598366830, downTime=598366830, deviceId=6, source=0x1002, displayId=0 }
+1647595876284	PolyGesture	InputEvent	TouchEvent (cursorPosition=263): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=678.0, y[0]=310.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598366913, downTime=598366830, deviceId=6, source=0x1002, displayId=0 }
+1647595876305	PolyGesture	InputEvent	SelectionChanged 256 256
+
+1647595876308	PolyGesture	InputEvent	SelectionChanged 263 256
+
+1647595876319	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595876323	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595876324	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595876328	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595876529	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595876532	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595876552	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877179	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877180	PolyGesture	InputEvent	SelectionChanged 263 263
+
+1647595877190	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595877193	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf  round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little XXXXXX village where he had been so often lately was that no one knew who he was.' 0 521 521
+
+1647595877198	PolyGesture	InputEvent	SelectionChanged 256 256
+
+1647595877199	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf  round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little XXXXXX village where he had been so often lately was that no one knew who he was.' 256 7 0
+
+1647595877203	PolyGesture	InputEvent	SelectionChanged 256 256
+
+1647595877222	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877225	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877225	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877227	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877249	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877249	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877250	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877251	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877277	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877278	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877281	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877282	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877285	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877285	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877286	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877287	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877313	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877315	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877317	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877338	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877516	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595877517	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595878312	PolyGesture	InputEvent	TouchEvent (cursorPosition=256): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=820.0, y[0]=520.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598368932, downTime=598368932, deviceId=6, source=0x1002, displayId=0 }
+1647595878386	PolyGesture	InputEvent	TouchEvent (cursorPosition=256): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=820.0, y[0]=520.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598369016, downTime=598368932, deviceId=6, source=0x1002, displayId=0 }
+1647595878394	PolyGesture	InputEvent	SelectionChanged 444 444
+
+1647595878424	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595878468	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595878667	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595878668	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595878692	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595879213	PolyGesture	InputEvent	SelectionChanged 445 445
+
+1647595879236	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595879248	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595879422	PolyGesture	InputEvent	SelectionChanged 446 446
+
+1647595879436	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595879448	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595879649	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595879651	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595880155	PolyGesture	InputEvent	TouchEvent (cursorPosition=446): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=713.0, y[0]=530.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598370776, downTime=598370776, deviceId=6, source=0x1002, displayId=0 }
+1647595880223	PolyGesture	InputEvent	TouchEvent (cursorPosition=446): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=713.0, y[0]=530.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598370852, downTime=598370776, deviceId=6, source=0x1002, displayId=0 }
+1647595880242	PolyGesture	InputEvent	SelectionChanged 440 440
+
+1647595880245	PolyGesture	InputEvent	SelectionChanged 446 440
+
+1647595880260	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595880264	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595880265	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595880268	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595880469	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595880472	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595880497	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881118	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881120	PolyGesture	InputEvent	SelectionChanged 446 446
+
+1647595881130	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595881133	PolyGesture	TaskCompleted	Cancella parola in 11"780 seconds (at 598371763, effective time: 10"805)
+
+***************************************
+
+
+1647595881144	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf  round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little  village where he had been so often lately was that no one knew who he was.' 0 515 515
+
+1647595881148	PolyGesture	InputEvent	SelectionChanged 440 440
+
+1647595881148	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf  round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little  village where he had been so often lately was that no one knew who he was.' 440 6 0
+
+1647595881152	PolyGesture	InputEvent	SelectionChanged 440 440
+
+1647595881165	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881213	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881213	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881214	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881218	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881220	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881223	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595881424	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595882245	PolyGesture	InputEvent	KeyDown 4 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=598372870, downTime=598372870, deviceId=-1, source=0x101, displayId=0 }
+
+1647595882248	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595882293	PolyGesture	InputEvent	WindowFocusChanged false
+
+1647595882340	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595882341	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595883209	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595883210	PolyGesture	InputEvent	TextChanged '' 0 0 0
+
+1647595883298	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595883299	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595883300	PolyGesture	TaskStarted	Cancella frase
+
+1647595883301	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he XXXXX XXXXX strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered XXXX XXXXXXXX how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the XXX XXX XXXXX charm of the little village where he had been so often lately was that no one knew who he was.' 0 553 553
+
+1647595883304	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he XXXXX XXXXX strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered XXXX XXXXXXXX how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the XXX XXX XXXXX charm of the little village where he had been so often lately was that no one knew who he was.' 0 0 553
+
+1647595883307	PolyGesture	InputEvent	SelectionChanged 553 553
+
+1647595883334	PolyGesture	InputEvent	FocusChanged true 130 null
+
+1647595883367	PolyGesture	InputEvent	WindowFocusChanged true
+
+1647595884298	PolyGesture	InputEvent	TouchEvent (cursorPosition=553): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=480.0, y[0]=180.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598374918, downTime=598374918, deviceId=6, source=0x1002, displayId=0 }
+1647595884364	PolyGesture	InputEvent	TouchEvent (cursorPosition=553): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=480.0, y[0]=180.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598374994, downTime=598374918, deviceId=6, source=0x1002, displayId=0 }
+1647595884373	PolyGesture	InputEvent	SelectionChanged 138 138
+
+1647595884406	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595884407	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595884420	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595884429	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595884639	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595884641	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595884662	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595885706	PolyGesture	InputEvent	TouchEvent (cursorPosition=138): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=170.0, y[0]=182.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598376334, downTime=598376334, deviceId=6, source=0x1002, displayId=0 }
+1647595885760	PolyGesture	InputEvent	TouchEvent (cursorPosition=138): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=170.0, y[0]=182.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598376389, downTime=598376334, deviceId=6, source=0x1002, displayId=0 }
+1647595885777	PolyGesture	InputEvent	SelectionChanged 126 126
+
+1647595885780	PolyGesture	InputEvent	SelectionChanged 138 126
+
+1647595885796	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595885799	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595885799	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595885801	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595886002	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595886005	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595886023	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887349	PolyGesture	InputEvent	SelectionChanged 138 127
+
+1647595887365	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887369	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887570	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887800	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887802	PolyGesture	InputEvent	SelectionChanged 138 138
+
+1647595887818	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595887822	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered XXXX XXXXXXXX how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the XXX XXX XXXXX charm of the little village where he had been so often lately was that no one knew who he was.' 0 542 542
+
+1647595887827	PolyGesture	InputEvent	SelectionChanged 127 127
+
+1647595887828	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered XXXX XXXXXXXX how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the XXX XXX XXXXX charm of the little village where he had been so often lately was that no one knew who he was.' 127 11 0
+
+1647595887832	PolyGesture	InputEvent	SelectionChanged 127 127
+
+1647595887846	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887853	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887854	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887860	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887863	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887867	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595887871	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595888071	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595888540	PolyGesture	InputEvent	TouchEvent (cursorPosition=127): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=751.0, y[0]=423.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598379159, downTime=598379159, deviceId=6, source=0x1002, displayId=0 }
+1647595888592	PolyGesture	InputEvent	TouchEvent (cursorPosition=127): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=751.0, y[0]=423.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598379222, downTime=598379159, deviceId=6, source=0x1002, displayId=0 }
+1647595888600	PolyGesture	InputEvent	SelectionChanged 300 300
+
+1647595888625	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595888664	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595888872	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595888874	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595888898	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595889620	PolyGesture	InputEvent	TouchEvent (cursorPosition=300): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=407.0, y[0]=415.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598380242, downTime=598380242, deviceId=6, source=0x1002, displayId=0 }
+1647595889695	PolyGesture	InputEvent	TouchEvent (cursorPosition=300): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=407.0, y[0]=415.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598380324, downTime=598380242, deviceId=6, source=0x1002, displayId=0 }
+1647595889714	PolyGesture	InputEvent	SelectionChanged 287 287
+
+1647595889716	PolyGesture	InputEvent	SelectionChanged 300 287
+
+1647595889727	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595889731	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595889732	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595889735	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595889936	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595889939	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595889956	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890702	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890703	PolyGesture	InputEvent	SelectionChanged 300 300
+
+1647595890713	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595890718	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered l how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the XXX XXX XXXXX charm of the little village where he had been so often lately was that no one knew who he was.' 0 530 530
+
+1647595890725	PolyGesture	InputEvent	SelectionChanged 288 288
+
+1647595890726	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered l how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the XXX XXX XXXXX charm of the little village where he had been so often lately was that no one knew who he was.' 287 13 1
+
+1647595890730	PolyGesture	InputEvent	SelectionChanged 288 288
+
+1647595890750	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890757	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890758	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890760	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890778	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890778	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890780	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890780	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890803	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890804	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890806	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890809	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890812	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890813	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890815	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890815	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890837	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890838	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890855	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595890856	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595891040	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595891042	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595891902	PolyGesture	InputEvent	TouchEvent (cursorPosition=288): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=571.0, y[0]=631.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598382523, downTime=598382523, deviceId=6, source=0x1002, displayId=0 }
+1647595891963	PolyGesture	InputEvent	TouchEvent (cursorPosition=288): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=571.0, y[0]=631.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598382592, downTime=598382523, deviceId=6, source=0x1002, displayId=0 }
+1647595891971	PolyGesture	InputEvent	SelectionChanged 435 435
+
+1647595892001	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595892046	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595892235	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595892238	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595892259	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595892963	PolyGesture	InputEvent	TouchEvent (cursorPosition=435): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=236.0, y[0]=639.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598383584, downTime=598383584, deviceId=6, source=0x1002, displayId=0 }
+1647595893044	PolyGesture	InputEvent	TouchEvent (cursorPosition=435): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=236.0, y[0]=639.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598383674, downTime=598383584, deviceId=6, source=0x1002, displayId=0 }
+1647595893063	PolyGesture	InputEvent	SelectionChanged 422 422
+
+1647595893065	PolyGesture	InputEvent	SelectionChanged 435 422
+
+1647595893082	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893086	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893087	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893093	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893294	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893297	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893318	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893942	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893943	PolyGesture	InputEvent	SelectionChanged 435 435
+
+1647595893953	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595893958	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered l how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the  charm of the little village where he had been so often lately was that no one knew who he was.' 0 517 517
+
+1647595893964	PolyGesture	InputEvent	SelectionChanged 422 422
+
+1647595893965	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered l how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the  charm of the little village where he had been so often lately was that no one knew who he was.' 422 13 0
+
+1647595893969	PolyGesture	InputEvent	SelectionChanged 422 422
+
+1647595893982	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893987	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893988	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893996	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595893999	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595894005	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595894008	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595894209	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895020	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895032	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595895036	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered l how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 516 516
+
+1647595895043	PolyGesture	InputEvent	SelectionChanged 421 421
+
+1647595895044	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered l how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the charm of the little village where he had been so often lately was that no one knew who he was.' 421 1 0
+
+1647595895047	PolyGesture	InputEvent	SelectionChanged 421 421
+
+1647595895069	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895074	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895075	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895077	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895099	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895100	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895102	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895103	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895121	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895122	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895124	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895127	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895130	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895132	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895134	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895135	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895157	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895158	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895177	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895178	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895360	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895362	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895760	PolyGesture	InputEvent	TouchEvent (cursorPosition=421): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=430.0, y[0]=419.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598386381, downTime=598386381, deviceId=6, source=0x1002, displayId=0 }
+1647595895813	PolyGesture	InputEvent	TouchEvent (cursorPosition=421): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=430.0, y[0]=419.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598386443, downTime=598386381, deviceId=6, source=0x1002, displayId=0 }
+1647595895821	PolyGesture	InputEvent	SelectionChanged 290 290
+
+1647595895847	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595895890	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595896089	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595896090	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595896113	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595896764	PolyGesture	InputEvent	SelectionChanged 289 289
+
+1647595896779	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595896792	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595896959	PolyGesture	InputEvent	SelectionChanged 288 288
+
+1647595896980	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595896993	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897195	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897197	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897216	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897608	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897631	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595897633	PolyGesture	TaskCompleted	Cancella frase in 14"333 seconds (at 598388263, effective time: 13"345)
+
+***************************************
+
+
+1647595897642	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered  how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 515 515
+
+1647595897646	PolyGesture	InputEvent	SelectionChanged 287 287
+
+1647595897646	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered  how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the charm of the little village where he had been so often lately was that no one knew who he was.' 287 1 0
+
+1647595897649	PolyGesture	InputEvent	SelectionChanged 287 287
+
+1647595897658	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897705	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897706	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897706	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897709	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897714	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897722	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897782	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897784	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897794	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595897796	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 514 514
+
+1647595897799	PolyGesture	InputEvent	SelectionChanged 286 286
+
+1647595897800	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat.
+As he  strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now.
+Half the charm of the little village where he had been so often lately was that no one knew who he was.' 286 1 0
+
+1647595897803	PolyGesture	InputEvent	SelectionChanged 286 286
+
+1647595897816	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897819	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897819	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897821	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897836	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897837	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897839	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897839	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897852	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897852	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897854	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897855	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897857	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897858	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897859	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897859	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897870	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897871	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897891	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595897891	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595898073	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595898075	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595898520	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595898533	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595898903	PolyGesture	InputEvent	KeyDown 4 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=598389529, downTime=598389529, deviceId=-1, source=0x101, displayId=0 }
+
+1647595898908	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595898967	PolyGesture	InputEvent	WindowFocusChanged false
+
+1647595899027	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595899028	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595899918	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595899919	PolyGesture	InputEvent	TextChanged '' 0 0 0
+
+1647595900007	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595900008	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595900009	PolyGesture	TaskStarted	Sposta parola (taglia - incolla)
+
+1647595900009	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in dress passed him. He heard one of them whisper to the other, evening That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595900012	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in dress passed him. He heard one of them whisper to the other, evening That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 0 513
+
+1647595900015	PolyGesture	InputEvent	SelectionChanged 513 513
+
+1647595900034	PolyGesture	InputEvent	FocusChanged true 130 null
+
+1647595900061	PolyGesture	InputEvent	WindowFocusChanged true
+
+1647595900958	PolyGesture	InputEvent	TouchEvent (cursorPosition=513): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=413.0, y[0]=309.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598391578, downTime=598391578, deviceId=6, source=0x1002, displayId=0 }
+1647595901024	PolyGesture	InputEvent	TouchEvent (cursorPosition=513): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=413.0, y[0]=309.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598391654, downTime=598391578, deviceId=6, source=0x1002, displayId=0 }
+1647595901032	PolyGesture	InputEvent	SelectionChanged 250 250
+
+1647595901061	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595901062	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595901076	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595901086	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595901291	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595901293	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595901314	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595901888	PolyGesture	InputEvent	TouchEvent (cursorPosition=250): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=800.0, y[0]=108.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598392508, downTime=598392508, deviceId=6, source=0x1002, displayId=0 }
+1647595901982	PolyGesture	InputEvent	TouchEvent (cursorPosition=250): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=800.0, y[0]=108.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598392612, downTime=598392508, deviceId=6, source=0x1002, displayId=0 }
+1647595902001	PolyGesture	InputEvent	SelectionChanged 86 86
+
+1647595902027	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595902070	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595902259	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595902271	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595902297	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595902792	PolyGesture	InputEvent	SelectionChanged 87 87
+
+1647595902812	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595902830	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595903032	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595903034	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595903743	PolyGesture	InputEvent	TouchEvent (cursorPosition=87): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=754.0, y[0]=83.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598394364, downTime=598394364, deviceId=6, source=0x1002, displayId=0 }
+1647595903804	PolyGesture	InputEvent	TouchEvent (cursorPosition=87): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=754.0, y[0]=83.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598394433, downTime=598394364, deviceId=6, source=0x1002, displayId=0 }
+1647595903822	PolyGesture	InputEvent	SelectionChanged 83 83
+
+1647595903825	PolyGesture	InputEvent	SelectionChanged 87 83
+
+1647595903841	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595903844	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595903845	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595903848	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595904048	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595904052	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595904078	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905355	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905361	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595905366	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905371	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595905375	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in dress passed him. He heard one of them whisper to the other, evening That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 509 509
+
+1647595905380	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in dress passed him. He heard one of them whisper to the other, evening That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 509
+
+1647595905383	PolyGesture	InputEvent	SelectionChanged 83 83
+
+1647595905437	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905444	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905445	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905446	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905463	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905464	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905465	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905465	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905478	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905481	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905483	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905484	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905487	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905488	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905500	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905501	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905521	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905522	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905525	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905526	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905529	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905730	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905732	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595905993	PolyGesture	InputEvent	TouchEvent (cursorPosition=83): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=640.0, y[0]=84.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598396615, downTime=598396615, deviceId=6, source=0x1002, displayId=0 }
+1647595906054	PolyGesture	InputEvent	TouchEvent (cursorPosition=83): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=640.0, y[0]=84.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598396684, downTime=598396615, deviceId=6, source=0x1002, displayId=0 }
+1647595906062	PolyGesture	InputEvent	SelectionChanged 78 78
+
+1647595906086	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595906124	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595906323	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595906324	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595906346	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907174	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907183	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595907186	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in dress passed him. He heard one of them whisper to the other, evening That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595907194	PolyGesture	InputEvent	SelectionChanged 82 82
+
+1647595907195	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in dress passed him. He heard one of them whisper to the other, evening That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 78 0 4
+
+1647595907198	PolyGesture	InputEvent	SelectionChanged 82 82
+
+1647595907228	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907231	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907237	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907238	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907239	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907239	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907240	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907258	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907264	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907265	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907268	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907271	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907273	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907274	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907275	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907291	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907294	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907295	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907314	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907315	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907498	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595907500	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595908473	PolyGesture	InputEvent	TouchEvent (cursorPosition=82): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=394.0, y[0]=316.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598399094, downTime=598399094, deviceId=6, source=0x1002, displayId=0 }
+1647595908534	PolyGesture	InputEvent	TouchEvent (cursorPosition=82): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=394.0, y[0]=316.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598399163, downTime=598399094, deviceId=6, source=0x1002, displayId=0 }
+1647595908541	PolyGesture	InputEvent	SelectionChanged 249 249
+
+1647595908572	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595908612	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595908818	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595908819	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595908839	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595909204	PolyGesture	InputEvent	SelectionChanged 250 250
+
+1647595909218	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595909231	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595909431	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595909434	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910086	PolyGesture	InputEvent	TouchEvent (cursorPosition=250): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=251.0, y[0]=318.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598400706, downTime=598400706, deviceId=6, source=0x1002, displayId=0 }
+1647595910132	PolyGesture	InputEvent	TouchEvent (cursorPosition=250): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=251.0, y[0]=318.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598400761, downTime=598400706, deviceId=6, source=0x1002, displayId=0 }
+1647595910148	PolyGesture	InputEvent	SelectionChanged 243 243
+
+1647595910151	PolyGesture	InputEvent	SelectionChanged 250 243
+
+1647595910165	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910169	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910170	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910172	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910373	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910376	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910401	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910893	PolyGesture	InputEvent	SelectionChanged 250 242
+
+1647595910910	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595910914	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595911116	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912037	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912043	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595912048	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912053	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595912056	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 505 505
+
+1647595912064	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 505
+
+1647595912069	PolyGesture	InputEvent	SelectionChanged 242 242
+
+1647595912111	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912115	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912116	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912117	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912135	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912135	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912136	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912137	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912151	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912154	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912157	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912158	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912160	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912170	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912170	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912172	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912172	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912173	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912174	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912374	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595912927	PolyGesture	InputEvent	TouchEvent (cursorPosition=242): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=887.0, y[0]=175.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598403547, downTime=598403547, deviceId=6, source=0x1002, displayId=0 }
+1647595912987	PolyGesture	InputEvent	TouchEvent (cursorPosition=242): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=887.0, y[0]=175.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598403617, downTime=598403547, deviceId=6, source=0x1002, displayId=0 }
+1647595912993	PolyGesture	InputEvent	SelectionChanged 182 182
+
+1647595913010	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913037	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913239	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913251	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913275	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913700	PolyGesture	InputEvent	SelectionChanged 181 181
+
+1647595913719	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913731	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913932	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913934	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595913955	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914384	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914397	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595914401	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595914409	PolyGesture	InputEvent	SelectionChanged 189 189
+
+1647595914410	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to was be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 181 0 8
+
+1647595914414	PolyGesture	InputEvent	SelectionChanged 189 189
+
+1647595914447	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914450	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914452	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914454	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914467	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914468	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914469	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914485	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914490	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914490	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914492	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914495	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914499	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914500	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914501	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914502	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914524	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914525	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914543	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914543	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914727	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595914729	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595915361	PolyGesture	InputEvent	TouchEvent (cursorPosition=189): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=951.0, y[0]=372.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598405988, downTime=598405988, deviceId=6, source=0x1002, displayId=0 }
+1647595915455	PolyGesture	InputEvent	TouchEvent (cursorPosition=189): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=951.0, y[0]=372.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598406085, downTime=598405988, deviceId=6, source=0x1002, displayId=0 }
+1647595915463	PolyGesture	InputEvent	SelectionChanged 311 311
+
+1647595915481	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595915516	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595915723	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595915725	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595915747	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595916101	PolyGesture	InputEvent	SelectionChanged 312 312
+
+1647595916117	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595916126	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595916327	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595916330	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595916995	PolyGesture	InputEvent	TouchEvent (cursorPosition=312): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=882.0, y[0]=394.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598407616, downTime=598407616, deviceId=6, source=0x1002, displayId=0 }
+1647595917069	PolyGesture	InputEvent	TouchEvent (cursorPosition=312): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=882.0, y[0]=394.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598407699, downTime=598407616, deviceId=6, source=0x1002, displayId=0 }
+1647595917086	PolyGesture	InputEvent	SelectionChanged 354 354
+
+1647595917089	PolyGesture	InputEvent	SelectionChanged 312 354
+
+1647595917103	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595917107	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595917108	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595917110	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595917312	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595917313	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595917329	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595917979	PolyGesture	InputEvent	SelectionChanged 312 309
+
+1647595917994	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595917998	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595918199	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595918662	PolyGesture	InputEvent	SelectionChanged 312 308
+
+1647595918673	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595918676	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595918879	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919488	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919491	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595919495	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919498	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595919501	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 509 509
+
+1647595919508	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 509
+
+1647595919512	PolyGesture	InputEvent	SelectionChanged 308 308
+
+1647595919555	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919560	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919561	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919563	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919582	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919582	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919583	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919584	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919596	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919597	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919600	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919600	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919601	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919602	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919616	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919616	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919638	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919638	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919641	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919641	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919643	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919844	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595919846	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595920446	PolyGesture	InputEvent	TouchEvent (cursorPosition=308): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=260.0, y[0]=459.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598411068, downTime=598411068, deviceId=6, source=0x1002, displayId=0 }
+1647595920548	PolyGesture	InputEvent	TouchEvent (cursorPosition=308): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=260.0, y[0]=459.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598411178, downTime=598411068, deviceId=6, source=0x1002, displayId=0 }
+1647595920556	PolyGesture	InputEvent	SelectionChanged 371 371
+
+1647595920582	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595920620	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595920819	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595920821	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595920843	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921267	PolyGesture	InputEvent	SelectionChanged 370 370
+
+1647595921288	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921300	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921502	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921504	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921524	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921805	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921814	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595921817	PolyGesture	TaskCompleted	Sposta parola (taglia - incolla) in 21"808 seconds (at 598412446, effective time: 20"868)
+
+***************************************
+
+
+1647595921829	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595921836	PolyGesture	InputEvent	SelectionChanged 374 374
+
+1647595921836	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not put even his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 370 0 4
+
+1647595921842	PolyGesture	InputEvent	SelectionChanged 374 374
+
+1647595921897	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921902	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921902	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921904	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921922	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921922	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921923	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921924	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921946	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921946	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921948	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921954	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921957	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921958	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921959	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921979	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921982	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595921983	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922001	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922001	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922186	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922189	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922492	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922506	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922896	PolyGesture	InputEvent	KeyDown 4 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=598413524, downTime=598413524, deviceId=-1, source=0x101, displayId=0 }
+
+1647595922898	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922935	PolyGesture	InputEvent	WindowFocusChanged false
+
+1647595922967	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595922968	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595923891	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595923892	PolyGesture	InputEvent	TextChanged '' 0 0 0
+
+1647595923978	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595923979	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595923980	PolyGesture	TaskStarted	Sposta frase
+
+1647595923981	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He of them heard one whisper to the other, That is Dorian Gray.
+He used to be when remembered how pleased he he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595923984	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He of them heard one whisper to the other, That is Dorian Gray.
+He used to be when remembered how pleased he he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 0 513
+
+1647595923987	PolyGesture	InputEvent	SelectionChanged 513 513
+
+1647595924009	PolyGesture	InputEvent	FocusChanged true 130 null
+
+1647595924038	PolyGesture	InputEvent	WindowFocusChanged true
+
+1647595925013	PolyGesture	InputEvent	TouchEvent (cursorPosition=513): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=149.0, y[0]=308.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598415640, downTime=598415640, deviceId=6, source=0x1002, displayId=0 }
+1647595925065	PolyGesture	InputEvent	TouchEvent (cursorPosition=513): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=149.0, y[0]=308.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598415695, downTime=598415640, deviceId=6, source=0x1002, displayId=0 }
+1647595925073	PolyGesture	InputEvent	SelectionChanged 212 212
+
+1647595925101	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595925101	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595925125	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595925163	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595925365	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595925367	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595925389	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595925820	PolyGesture	InputEvent	SelectionChanged 211 211
+
+1647595925838	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595925845	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595926046	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595926049	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595926574	PolyGesture	InputEvent	SelectionChanged 210 210
+
+1647595926588	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595926602	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595926804	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595926805	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595926828	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595927587	PolyGesture	InputEvent	TouchEvent (cursorPosition=210): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=254.0, y[0]=315.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598418208, downTime=598418208, deviceId=6, source=0x1002, displayId=0 }
+1647595927640	PolyGesture	InputEvent	TouchEvent (cursorPosition=210): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=254.0, y[0]=315.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598418270, downTime=598418208, deviceId=6, source=0x1002, displayId=0 }
+1647595927661	PolyGesture	InputEvent	SelectionChanged 217 217
+
+1647595927663	PolyGesture	InputEvent	SelectionChanged 210 217
+
+1647595927680	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595927685	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595927686	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595927689	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595927890	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595927894	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595927919	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595928416	PolyGesture	InputEvent	SelectionChanged 210 218
+
+1647595928437	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595928441	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595928642	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929252	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929256	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595929263	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929268	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595929270	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one whisper to the other, That is Dorian Gray.
+He used to be when remembered how pleased he he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 505 505
+
+1647595929274	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one whisper to the other, That is Dorian Gray.
+He used to be when remembered how pleased he he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 505
+
+1647595929277	PolyGesture	InputEvent	SelectionChanged 210 210
+
+1647595929311	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929319	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929319	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929321	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929339	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929340	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929342	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929342	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929374	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929375	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929380	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929380	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929382	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929382	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929407	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929408	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929437	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929438	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929441	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929442	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929445	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929646	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929648	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595929944	PolyGesture	InputEvent	TouchEvent (cursorPosition=210): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=344.0, y[0]=317.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598420563, downTime=598420563, deviceId=6, source=0x1002, displayId=0 }
+1647595930002	PolyGesture	InputEvent	TouchEvent (cursorPosition=210): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=344.0, y[0]=317.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598420632, downTime=598420563, deviceId=6, source=0x1002, displayId=0 }
+1647595930010	PolyGesture	InputEvent	SelectionChanged 221 221
+
+1647595930035	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930070	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930262	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930273	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930299	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930681	PolyGesture	InputEvent	SelectionChanged 220 220
+
+1647595930696	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930709	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930912	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930913	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595930936	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931315	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931323	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595931326	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He used to be when remembered how pleased he he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595931333	PolyGesture	InputEvent	SelectionChanged 228 228
+
+1647595931334	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He used to be when remembered how pleased he he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 220 0 8
+
+1647595931337	PolyGesture	InputEvent	SelectionChanged 228 228
+
+1647595931362	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931367	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931369	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931371	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931391	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931392	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931393	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931393	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931425	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931426	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931428	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931431	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931435	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931436	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931437	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931438	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931460	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931461	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931484	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931485	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931664	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595931666	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595932411	PolyGesture	InputEvent	TouchEvent (cursorPosition=228): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=121.0, y[0]=437.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598423038, downTime=598423038, deviceId=6, source=0x1002, displayId=0 }
+1647595932470	PolyGesture	InputEvent	TouchEvent (cursorPosition=228): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=121.0, y[0]=437.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598423100, downTime=598423038, deviceId=6, source=0x1002, displayId=0 }
+1647595932477	PolyGesture	InputEvent	SelectionChanged 275 275
+
+1647595932497	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595932523	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595932735	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595932737	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595932760	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595933253	PolyGesture	InputEvent	SelectionChanged 274 274
+
+1647595933276	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595933294	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595933496	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595933497	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595933520	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595934085	PolyGesture	InputEvent	TouchEvent (cursorPosition=274): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=452.0, y[0]=417.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598424706, downTime=598424706, deviceId=6, source=0x1002, displayId=0 }
+1647595934152	PolyGesture	InputEvent	TouchEvent (cursorPosition=274): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=452.0, y[0]=417.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598424781, downTime=598424706, deviceId=6, source=0x1002, displayId=0 }
+1647595934170	PolyGesture	InputEvent	SelectionChanged 290 290
+
+1647595934173	PolyGesture	InputEvent	SelectionChanged 274 290
+
+1647595934184	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595934187	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595934188	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595934191	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595934392	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595934395	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595934420	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935068	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935072	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595935076	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935080	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595935084	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 497 497
+
+1647595935091	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 497
+
+1647595935094	PolyGesture	InputEvent	SelectionChanged 274 274
+
+1647595935134	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935141	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935142	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935143	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935144	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935144	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935145	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935162	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935165	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935167	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935169	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935170	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935172	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935172	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935185	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935186	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935207	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935207	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935207	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935210	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935411	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595935413	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595936111	PolyGesture	InputEvent	TouchEvent (cursorPosition=274): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=713.0, y[0]=394.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598426731, downTime=598426731, deviceId=6, source=0x1002, displayId=0 }
+1647595936177	PolyGesture	InputEvent	TouchEvent (cursorPosition=274): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=713.0, y[0]=394.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598426807, downTime=598426731, deviceId=6, source=0x1002, displayId=0 }
+1647595936185	PolyGesture	InputEvent	SelectionChanged 300 300
+
+1647595936207	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595936244	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595936444	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595936446	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595936468	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937026	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937036	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595937040	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he used to be when he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595937046	PolyGesture	InputEvent	SelectionChanged 316 316
+
+1647595937048	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he used to be when he was pointed out, or stared at, or talked about.
+He of hearing was tired his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 300 0 16
+
+1647595937051	PolyGesture	InputEvent	SelectionChanged 316 316
+
+1647595937086	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937092	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937093	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937095	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937114	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937115	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937116	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937116	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937136	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937137	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937138	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937142	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937144	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937146	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937148	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937149	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937174	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937174	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937191	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937192	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937376	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595937379	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938008	PolyGesture	InputEvent	TouchEvent (cursorPosition=316): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=358.0, y[0]=589.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598428629, downTime=598428629, deviceId=6, source=0x1002, displayId=0 }
+1647595938124	PolyGesture	InputEvent	TouchEvent (cursorPosition=316): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=358.0, y[0]=589.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598428754, downTime=598428629, deviceId=6, source=0x1002, displayId=0 }
+1647595938132	PolyGesture	InputEvent	SelectionChanged 383 383
+
+1647595938156	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938192	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938382	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938393	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938419	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938614	PolyGesture	InputEvent	SelectionChanged 382 382
+
+1647595938628	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938640	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938841	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938843	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938861	PolyGesture	InputEvent	SelectionChanged 381 381
+
+1647595938881	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595938896	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595939098	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595939100	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595939121	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595939710	PolyGesture	InputEvent	TouchEvent (cursorPosition=381): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=522.0, y[0]=570.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598430332, downTime=598430332, deviceId=6, source=0x1002, displayId=0 }
+1647595939778	PolyGesture	InputEvent	TouchEvent (cursorPosition=381): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=522.0, y[0]=570.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598430408, downTime=598430332, deviceId=6, source=0x1002, displayId=0 }
+1647595939796	PolyGesture	InputEvent	SelectionChanged 391 391
+
+1647595939798	PolyGesture	InputEvent	SelectionChanged 381 391
+
+1647595939810	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595939813	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595939814	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595939819	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940021	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940024	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940044	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940638	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940644	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595940648	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940652	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595940655	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he used to be when he was pointed out, or stared at, or talked about.
+He of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 503 503
+
+1647595940662	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he used to be when he was pointed out, or stared at, or talked about.
+He of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 503
+
+1647595940665	PolyGesture	InputEvent	SelectionChanged 381 381
+
+1647595940713	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940719	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940719	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940722	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940733	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940733	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940734	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940753	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940757	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940759	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940763	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940763	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940765	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940765	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940778	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940779	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940797	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940798	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940801	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940801	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595940803	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595941005	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595941007	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595941469	PolyGesture	InputEvent	TouchEvent (cursorPosition=381): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=107.0, y[0]=592.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598432097, downTime=598432097, deviceId=6, source=0x1002, displayId=0 }
+1647595941544	PolyGesture	InputEvent	TouchEvent (cursorPosition=381): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=107.0, y[0]=592.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598432173, downTime=598432097, deviceId=6, source=0x1002, displayId=0 }
+1647595941551	PolyGesture	InputEvent	SelectionChanged 370 370
+
+1647595941575	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595941611	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595941801	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595941812	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595941838	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942271	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942276	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595942279	PolyGesture	TaskCompleted	Sposta frase in 18"299 seconds (at 598432909, effective time: 17"269)
+
+***************************************
+
+
+1647595942294	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he used to be when he was pointed out, or stared at, or talked about.
+He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 0 513 513
+
+1647595942299	PolyGesture	InputEvent	SelectionChanged 380 380
+
+1647595942299	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him.
+He heard one of them whisper to the other, That is Dorian Gray.
+He remembered how pleased he used to be when he was pointed out, or stared at, or talked about.
+He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.' 370 0 10
+
+1647595942303	PolyGesture	InputEvent	SelectionChanged 380 380
+
+1647595942368	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942373	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942374	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942376	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942392	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942393	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942394	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942394	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942418	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942419	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942420	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942422	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942425	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942426	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942427	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942428	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942452	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942452	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942470	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942471	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942653	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595942656	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595943042	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595943058	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595943427	PolyGesture	InputEvent	KeyDown 4 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=598434051, downTime=598434051, deviceId=-1, source=0x101, displayId=0 }
+
+1647595943431	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595943491	PolyGesture	InputEvent	WindowFocusChanged false
+
+1647595943525	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595943525	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595944371	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595944371	PolyGesture	InputEvent	TextChanged '' 0 0 0
+
+1647595944459	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595944460	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595944460	PolyGesture	TaskStarted	Correggi testo
+
+1647595944460	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warXm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That XXXX is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the village where he had little been so often lately was that no one knew who he was.' 0 519 519
+
+1647595944463	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warXm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That XXXX is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the village where he had little been so often lately was that no one knew who he was.' 0 0 519
+
+1647595944466	PolyGesture	InputEvent	SelectionChanged 519 519
+
+1647595944483	PolyGesture	InputEvent	FocusChanged true 130 null
+
+1647595944507	PolyGesture	InputEvent	WindowFocusChanged true
+
+1647595945682	PolyGesture	InputEvent	TouchEvent (cursorPosition=519): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=645.0, y[0]=43.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598436303, downTime=598436303, deviceId=6, source=0x1002, displayId=0 }
+1647595945756	PolyGesture	InputEvent	TouchEvent (cursorPosition=519): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=645.0, y[0]=43.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598436386, downTime=598436303, deviceId=6, source=0x1002, displayId=0 }
+1647595945764	PolyGesture	InputEvent	SelectionChanged 30 30
+
+1647595945792	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595945792	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595945805	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595945818	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595946022	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595946033	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595946058	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947274	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947301	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595947304	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That XXXX is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the village where he had little been so often lately was that no one knew who he was.' 0 518 518
+
+1647595947311	PolyGesture	InputEvent	SelectionChanged 29 29
+
+1647595947313	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That XXXX is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the village where he had little been so often lately was that no one knew who he was.' 29 1 0
+
+1647595947317	PolyGesture	InputEvent	SelectionChanged 29 29
+
+1647595947328	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947333	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947333	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947334	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947356	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947359	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947359	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947361	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947363	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947366	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947366	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947367	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947568	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947569	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595947994	PolyGesture	InputEvent	TouchEvent (cursorPosition=29): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=757.0, y[0]=303.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598438614, downTime=598438614, deviceId=6, source=0x1002, displayId=0 }
+1647595948060	PolyGesture	InputEvent	TouchEvent (cursorPosition=29): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=757.0, y[0]=303.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598438690, downTime=598438614, deviceId=6, source=0x1002, displayId=0 }
+1647595948068	PolyGesture	InputEvent	SelectionChanged 258 258
+
+1647595948092	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595948126	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595948328	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595948330	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595948353	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595948711	PolyGesture	InputEvent	SelectionChanged 259 259
+
+1647595948729	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595948742	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595948872	PolyGesture	InputEvent	SelectionChanged 260 260
+
+1647595948884	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595948898	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595949100	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595949101	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595949773	PolyGesture	InputEvent	TouchEvent (cursorPosition=260): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=713.0, y[0]=310.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598440394, downTime=598440394, deviceId=6, source=0x1002, displayId=0 }
+1647595949840	PolyGesture	InputEvent	TouchEvent (cursorPosition=260): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=713.0, y[0]=310.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598440470, downTime=598440394, deviceId=6, source=0x1002, displayId=0 }
+1647595949857	PolyGesture	InputEvent	SelectionChanged 257 257
+
+1647595949860	PolyGesture	InputEvent	SelectionChanged 260 257
+
+1647595949876	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595949879	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595949880	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595949883	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595950084	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595950087	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595950112	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595950616	PolyGesture	InputEvent	SelectionChanged 260 256
+
+1647595950632	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595950636	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595950837	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595950881	PolyGesture	InputEvent	SelectionChanged 260 255
+
+1647595950901	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595950905	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951106	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951676	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951677	PolyGesture	InputEvent	SelectionChanged 260 260
+
+1647595951686	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595951689	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the village where he had little been so often lately was that no one knew who he was.' 0 513 513
+
+1647595951696	PolyGesture	InputEvent	SelectionChanged 255 255
+
+1647595951697	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the village where he had little been so often lately was that no one knew who he was.' 255 5 0
+
+1647595951701	PolyGesture	InputEvent	SelectionChanged 255 255
+
+1647595951723	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951725	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951726	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951738	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951739	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951739	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951740	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951770	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951774	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951775	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951777	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951780	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951782	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951783	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951804	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951805	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951807	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951808	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951836	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595951837	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595952010	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595952012	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595953357	PolyGesture	InputEvent	TouchEvent (cursorPosition=255): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=133.0, y[0]=565.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598443986, downTime=598443986, deviceId=6, source=0x1002, displayId=0 }
+1647595953419	PolyGesture	InputEvent	TouchEvent (cursorPosition=255): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=133.0, y[0]=565.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598444048, downTime=598443986, deviceId=6, source=0x1002, displayId=0 }
+1647595953426	PolyGesture	InputEvent	SelectionChanged 459 459
+
+1647595953449	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595953501	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595953687	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595953689	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595953710	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595954718	PolyGesture	InputEvent	SelectionChanged 459 458
+
+1647595954731	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595954735	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595954919	PolyGesture	InputEvent	SelectionChanged 459 457
+
+1647595954934	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595954937	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955115	PolyGesture	InputEvent	SelectionChanged 459 456
+
+1647595955134	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955138	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955337	PolyGesture	InputEvent	SelectionChanged 459 455
+
+1647595955357	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955358	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955360	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955392	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955395	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955400	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955402	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955555	PolyGesture	InputEvent	SelectionChanged 459 454
+
+1647595955568	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955572	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955773	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955959	PolyGesture	InputEvent	SelectionChanged 459 453
+
+1647595955970	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595955974	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956176	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956805	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956808	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595956812	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956814	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595956817	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the village where he had  been so often lately was that no one knew who he was.' 0 507 507
+
+1647595956826	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the village where he had  been so often lately was that no one knew who he was.' 0 513 507
+
+1647595956829	PolyGesture	InputEvent	SelectionChanged 453 453
+
+1647595956860	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956863	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956864	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956867	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956883	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956883	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956884	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956885	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956919	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956920	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956923	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956924	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956926	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956927	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956947	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956950	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956951	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956951	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595956952	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595957152	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595957635	PolyGesture	InputEvent	TouchEvent (cursorPosition=453): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=595.0, y[0]=522.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598448257, downTime=598448257, deviceId=6, source=0x1002, displayId=0 }
+1647595957696	PolyGesture	InputEvent	TouchEvent (cursorPosition=453): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=595.0, y[0]=522.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598448325, downTime=598448257, deviceId=6, source=0x1002, displayId=0 }
+1647595957703	PolyGesture	InputEvent	SelectionChanged 431 431
+
+1647595957725	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595957762	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595957953	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595957955	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595957978	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958410	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958420	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595958423	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of thelittle village where he had  been so often lately was that no one knew who he was.' 0 513 513
+
+1647595958428	PolyGesture	InputEvent	SelectionChanged 437 437
+
+1647595958430	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of thelittle village where he had  been so often lately was that no one knew who he was.' 431 0 6
+
+1647595958434	PolyGesture	InputEvent	SelectionChanged 437 437
+
+1647595958457	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958461	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958462	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958464	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958476	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958476	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958478	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958478	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958510	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958510	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958513	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958516	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958519	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958520	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958522	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958523	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958545	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958546	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958547	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958574	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958748	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595958751	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595959537	PolyGesture	InputEvent	TouchEvent (cursorPosition=437): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=593.0, y[0]=531.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598450156, downTime=598450156, deviceId=6, source=0x1002, displayId=0 }
+1647595959624	PolyGesture	InputEvent	TouchEvent (cursorPosition=437): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=593.0, y[0]=531.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598450253, downTime=598450156, deviceId=6, source=0x1002, displayId=0 }
+1647595959632	PolyGesture	InputEvent	SelectionChanged 431 431
+
+1647595959653	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595959690	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595959880	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595959882	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595960994	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961010	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595961013	PolyGesture	TaskCompleted	Correggi testo in 16"552 seconds (at 598451642, effective time: 15"339)
+
+***************************************
+
+
+1647595961022	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had  been so often lately was that no one knew who he was.' 0 514 514
+
+1647595961027	PolyGesture	InputEvent	SelectionChanged 432 432
+
+1647595961028	PolyGesture	InputEvent	TextChanged 'It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had  been so often lately was that no one knew who he was.' 431 0 1
+
+1647595961033	PolyGesture	InputEvent	SelectionChanged 432 432
+
+1647595961078	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961082	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961083	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961106	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961107	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961107	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961108	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961109	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961127	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961129	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961131	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961132	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961134	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961136	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961138	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961138	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961150	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961151	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961171	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961172	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961353	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961355	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961620	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961633	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595961988	PolyGesture	InputEvent	KeyDown 4 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=598452614, downTime=598452614, deviceId=-1, source=0x101, displayId=0 }
+
+1647595961992	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595962045	PolyGesture	InputEvent	WindowFocusChanged false
+
+1647595962082	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595962083	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595962927	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595962928	PolyGesture	InputEvent	TextChanged '' 0 0 0
+
+1647595963016	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595963017	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595963017	PolyGesture	TaskStarted	Duplica parola (Copia - incolla)
+
+1647595963018	PolyGesture	InputEvent	TextChanged 'Duplica le parole(copia la parola affianco a quella gia presente, non aggiungere lo spazio):
+
+(1) man (2) friend (3) put
+
+(1)Police
+(2)Boy
+(3)In' 0 144 144
+
+1647595963019	PolyGesture	InputEvent	TextChanged 'Duplica le parole(copia la parola affianco a quella gia presente, non aggiungere lo spazio):
+
+(1) man (2) friend (3) put
+
+(1)Police
+(2)Boy
+(3)In' 0 0 144
+
+1647595963020	PolyGesture	InputEvent	SelectionChanged 144 144
+
+1647595963043	PolyGesture	InputEvent	FocusChanged true 130 null
+
+1647595963068	PolyGesture	InputEvent	WindowFocusChanged true
+
+1647595964385	PolyGesture	InputEvent	TouchEvent (cursorPosition=144): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=136.0, y[0]=198.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598455012, downTime=598455012, deviceId=6, source=0x1002, displayId=0 }
+1647595964424	PolyGesture	InputEvent	TouchEvent (cursorPosition=144): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=136.0, y[0]=198.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598455054, downTime=598455012, deviceId=6, source=0x1002, displayId=0 }
+1647595964431	PolyGesture	InputEvent	SelectionChanged 98 98
+
+1647595964458	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964459	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964460	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964491	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964516	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964559	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964591	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964592	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964594	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964611	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964784	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595964786	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595965912	PolyGesture	InputEvent	TouchEvent (cursorPosition=98): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=198.0, y[0]=205.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598456533, downTime=598456533, deviceId=6, source=0x1002, displayId=0 }
+1647595965951	PolyGesture	InputEvent	TouchEvent (cursorPosition=98): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=198.0, y[0]=205.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598456581, downTime=598456533, deviceId=6, source=0x1002, displayId=0 }
+1647595965971	PolyGesture	InputEvent	SelectionChanged 100 100
+
+1647595965973	PolyGesture	InputEvent	SelectionChanged 98 100
+
+1647595965986	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595965989	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595965990	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595965993	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595966193	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595966197	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595966216	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595966707	PolyGesture	InputEvent	SelectionChanged 98 101
+
+1647595966719	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595966722	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595966924	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968184	PolyGesture	InputEvent	TouchEvent (cursorPosition=98): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=316.0, y[0]=293.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598458806, downTime=598458806, deviceId=6, source=0x1002, displayId=0 }
+1647595968251	PolyGesture	InputEvent	TouchEvent (cursorPosition=98): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=316.0, y[0]=293.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598458881, downTime=598458806, deviceId=6, source=0x1002, displayId=0 }
+1647595968259	PolyGesture	InputEvent	SelectionChanged 131 131
+
+1647595968288	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968324	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968515	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968525	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968548	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968859	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968868	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595968872	PolyGesture	InputEvent	TextChanged 'Duplica le parole(copia la parola affianco a quella gia presente, non aggiungere lo spazio):
+
+(1) man (2) friend (3) put
+
+(1)Policeman
+(2)Boy
+(3)In' 0 147 147
+
+1647595968875	PolyGesture	InputEvent	SelectionChanged 134 134
+
+1647595968876	PolyGesture	InputEvent	TextChanged 'Duplica le parole(copia la parola affianco a quella gia presente, non aggiungere lo spazio):
+
+(1) man (2) friend (3) put
+
+(1)Policeman
+(2)Boy
+(3)In' 131 0 3
+
+1647595968879	PolyGesture	InputEvent	SelectionChanged 134 134
+
+1647595968905	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968911	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968912	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968914	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968926	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968926	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968927	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968955	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968960	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968961	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968964	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968968	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968972	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968974	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968976	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968976	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968995	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595968996	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969022	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969023	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969198	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969200	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969509	PolyGesture	InputEvent	TouchEvent (cursorPosition=134): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=270.0, y[0]=216.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598460130, downTime=598460130, deviceId=6, source=0x1002, displayId=0 }
+1647595969583	PolyGesture	InputEvent	TouchEvent (cursorPosition=134): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=270.0, y[0]=216.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598460213, downTime=598460130, deviceId=6, source=0x1002, displayId=0 }
+1647595969590	PolyGesture	InputEvent	SelectionChanged 104 104
+
+1647595969613	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969672	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969862	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969864	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595969882	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595970242	PolyGesture	InputEvent	TouchEvent (cursorPosition=104): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=300.0, y[0]=207.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598460862, downTime=598460862, deviceId=6, source=0x1002, displayId=0 }
+1647595970321	PolyGesture	InputEvent	TouchEvent (cursorPosition=104): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=300.0, y[0]=207.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598460951, downTime=598460862, deviceId=6, source=0x1002, displayId=0 }
+1647595970339	PolyGesture	InputEvent	SelectionChanged 106 106
+
+1647595970362	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595970402	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595970607	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595970609	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595970630	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595971596	PolyGesture	InputEvent	TouchEvent (cursorPosition=106): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=368.0, y[0]=193.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598462217, downTime=598462217, deviceId=6, source=0x1002, displayId=0 }
+1647595971650	PolyGesture	InputEvent	TouchEvent (cursorPosition=106): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=368.0, y[0]=193.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598462279, downTime=598462217, deviceId=6, source=0x1002, displayId=0 }
+1647595971667	PolyGesture	InputEvent	SelectionChanged 110 110
+
+1647595971669	PolyGesture	InputEvent	SelectionChanged 106 110
+
+1647595971687	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595971691	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595971692	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595971694	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595971894	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595971897	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595971909	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595972480	PolyGesture	InputEvent	SelectionChanged 106 111
+
+1647595972500	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595972503	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595972703	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595972718	PolyGesture	InputEvent	SelectionChanged 106 112
+
+1647595972732	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595972737	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595972938	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974165	PolyGesture	InputEvent	TouchEvent (cursorPosition=106): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=280.0, y[0]=367.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598464785, downTime=598464785, deviceId=6, source=0x1002, displayId=0 }
+1647595974232	PolyGesture	InputEvent	TouchEvent (cursorPosition=106): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=280.0, y[0]=367.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598464862, downTime=598464785, deviceId=6, source=0x1002, displayId=0 }
+1647595974239	PolyGesture	InputEvent	SelectionChanged 141 141
+
+1647595974264	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974296	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974490	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974491	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974511	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974812	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974822	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595974825	PolyGesture	InputEvent	TextChanged 'Duplica le parole(copia la parola affianco a quella gia presente, non aggiungere lo spazio):
+
+(1) man (2) friend (3) put
+
+(1)Policeman
+(2)Boyfriend
+(3)In' 0 153 153
+
+1647595974829	PolyGesture	InputEvent	SelectionChanged 147 147
+
+1647595974830	PolyGesture	InputEvent	TextChanged 'Duplica le parole(copia la parola affianco a quella gia presente, non aggiungere lo spazio):
+
+(1) man (2) friend (3) put
+
+(1)Policeman
+(2)Boyfriend
+(3)In' 141 0 6
+
+1647595974833	PolyGesture	InputEvent	SelectionChanged 147 147
+
+1647595974858	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974863	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974864	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974866	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974879	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974880	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974882	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974909	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974914	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974915	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974918	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974920	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974923	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974924	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974926	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974926	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974937	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974938	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974964	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595974965	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595975142	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595975143	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595975518	PolyGesture	InputEvent	TouchEvent (cursorPosition=147): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=507.0, y[0]=174.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598466139, downTime=598466139, deviceId=6, source=0x1002, displayId=0 }
+1647595975578	PolyGesture	InputEvent	TouchEvent (cursorPosition=147): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=507.0, y[0]=174.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598466208, downTime=598466139, deviceId=6, source=0x1002, displayId=0 }
+1647595975586	PolyGesture	InputEvent	SelectionChanged 118 118
+
+1647595975610	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595975646	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595975839	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595975841	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595975859	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595976431	PolyGesture	InputEvent	SelectionChanged 117 117
+
+1647595976450	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595976464	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595976665	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595976668	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595977346	PolyGesture	InputEvent	TouchEvent (cursorPosition=117): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=569.0, y[0]=195.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598467967, downTime=598467967, deviceId=6, source=0x1002, displayId=0 }
+1647595977413	PolyGesture	InputEvent	TouchEvent (cursorPosition=117): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=569.0, y[0]=195.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598468043, downTime=598467967, deviceId=6, source=0x1002, displayId=0 }
+1647595977428	PolyGesture	InputEvent	SelectionChanged 120 120
+
+1647595977431	PolyGesture	InputEvent	SelectionChanged 117 120
+
+1647595977443	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595977446	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595977447	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595977449	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595977650	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595977653	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595977675	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595978994	PolyGesture	InputEvent	TouchEvent (cursorPosition=117): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=350.0, y[0]=417.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598469615, downTime=598469615, deviceId=6, source=0x1002, displayId=0 }
+1647595979118	PolyGesture	InputEvent	TouchEvent (cursorPosition=117): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=350.0, y[0]=417.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598469747, downTime=598469615, deviceId=6, source=0x1002, displayId=0 }
+1647595979126	PolyGesture	InputEvent	SelectionChanged 153 153
+
+1647595979153	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979191	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979391	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979393	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979412	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979674	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979682	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595979685	PolyGesture	TaskCompleted	Duplica parola (Copia - incolla) in 16"667 seconds (at 598470315, effective time: 15"303)
+
+***************************************
+
+
+1647595979695	PolyGesture	InputEvent	TextChanged 'Duplica le parole(copia la parola affianco a quella gia presente, non aggiungere lo spazio):
+
+(1) man (2) friend (3) put
+
+(1)Policeman
+(2)Boyfriend
+(3)Input' 0 156 156
+
+1647595979698	PolyGesture	InputEvent	SelectionChanged 156 156
+
+1647595979699	PolyGesture	InputEvent	TextChanged 'Duplica le parole(copia la parola affianco a quella gia presente, non aggiungere lo spazio):
+
+(1) man (2) friend (3) put
+
+(1)Policeman
+(2)Boyfriend
+(3)Input' 153 0 3
+
+1647595979702	PolyGesture	InputEvent	SelectionChanged 156 156
+
+1647595979754	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979758	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979760	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979761	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979779	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979780	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979781	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979782	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979791	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979791	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979793	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979796	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979797	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979797	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979798	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979799	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979813	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979814	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979834	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595979834	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595980017	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595980019	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595980310	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595980326	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595980749	PolyGesture	InputEvent	KeyDown 4 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=598471374, downTime=598471374, deviceId=-1, source=0x101, displayId=0 }
+
+1647595980755	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595980800	PolyGesture	InputEvent	WindowFocusChanged false
+
+1647595980838	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595980838	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595981758	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595981759	PolyGesture	InputEvent	TextChanged '' 0 0 0
+
+1647595981843	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595981844	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595981845	PolyGesture	TaskStarted	Duplica frase
+
+1647595981845	PolyGesture	InputEvent	TextChanged 'Copia la frase tra le XXX (XXX non comprese) in fondo al testo:
+
+XXXIt was a lovely nightXXX, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.
+' 0 585 585
+
+1647595981848	PolyGesture	InputEvent	TextChanged 'Copia la frase tra le XXX (XXX non comprese) in fondo al testo:
+
+XXXIt was a lovely nightXXX, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.
+' 0 0 585
+
+1647595981851	PolyGesture	InputEvent	SelectionChanged 585 585
+
+1647595981876	PolyGesture	InputEvent	FocusChanged true 130 null
+
+1647595981901	PolyGesture	InputEvent	WindowFocusChanged true
+
+1647595982982	PolyGesture	InputEvent	TouchEvent (cursorPosition=585): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=143.0, y[0]=200.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598473610, downTime=598473610, deviceId=6, source=0x1002, displayId=0 }
+1647595983051	PolyGesture	InputEvent	TouchEvent (cursorPosition=585): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=143.0, y[0]=200.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598473680, downTime=598473610, deviceId=6, source=0x1002, displayId=0 }
+1647595983059	PolyGesture	InputEvent	SelectionChanged 68 68
+
+1647595983091	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595983092	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595983105	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595983120	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595983323	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595983334	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595983364	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595984698	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=528.0, y[0]=199.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598475319, downTime=598475319, deviceId=6, source=0x1002, displayId=0 }
+1647595984745	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=528.0, y[0]=199.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598475374, downTime=598475319, deviceId=6, source=0x1002, displayId=0 }
+1647595984763	PolyGesture	InputEvent	SelectionChanged 88 88
+
+1647595984766	PolyGesture	InputEvent	SelectionChanged 68 88
+
+1647595984781	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595984785	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595984786	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595984788	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595984988	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595984990	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595985007	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595985484	PolyGesture	InputEvent	SelectionChanged 68 89
+
+1647595985505	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595985508	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595985711	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595986821	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=324.0, y[0]=695.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598477443, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986861	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=322.0, y[0]=708.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598477490, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986883	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=315.96063, y[0]=754.3938, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477508, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986894	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=315.0, y[0]=786.311, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477519, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986905	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=315.0, y[0]=821.80347, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=598477530, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986916	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=317.62875, y[0]=857.28754, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477541, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986927	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=321.7149, y[0]=890.0044, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=598477552, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986939	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=325.62448, y[0]=921.82983, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477563, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986950	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=329.17953, y[0]=948.4363, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477575, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986961	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=330.0, y[0]=978.93677, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=598477586, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986972	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=331.63107, y[0]=1005.4176, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477597, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986983	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=333.90204, y[0]=1025.8245, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=598477608, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595986994	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=336.0868, y[0]=1039.8037, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477619, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595987005	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=338.09186, y[0]=1047.3674, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477630, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595987017	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=338.0, y[0]=1052.4412, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=598477641, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595987028	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=338.0, y[0]=1054.3193, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477653, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595987039	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=338.0, y[0]=1055.9072, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=1, eventTime=598477664, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595987050	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_MOVE, actionButton=0, id[0]=0, x[0]=338.0, y[0]=1057.5, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=2, eventTime=598477674, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595987104	PolyGesture	InputEvent	TouchEvent (cursorPosition=68): MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=338.0, y[0]=1057.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x40000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=598477734, downTime=598477443, deviceId=6, source=0x1002, displayId=0 }
+1647595987111	PolyGesture	InputEvent	SelectionChanged 585 585
+
+1647595987139	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595987175	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595987384	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988088	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988098	PolyGesture	InputEvent	SelectionChanged 0 0
+
+1647595988102	PolyGesture	TaskCompleted	Duplica frase in 6"257 seconds (at 598478731, effective time: 5"121)
+
+***************************************
+
+
+1647595988118	PolyGesture	InputEvent	TextChanged 'Copia la frase tra le XXX (XXX non comprese) in fondo al testo:
+
+XXXIt was a lovely nightXXX, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.
+It was a lovely night' 0 606 606
+
+1647595988122	PolyGesture	InputEvent	SelectionChanged 606 606
+
+1647595988123	PolyGesture	InputEvent	TextChanged 'Copia la frase tra le XXX (XXX non comprese) in fondo al testo:
+
+XXXIt was a lovely nightXXX, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, That is Dorian Gray. He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was.
+It was a lovely night' 585 0 21
+
+1647595988129	PolyGesture	InputEvent	SelectionChanged 606 606
+
+1647595988192	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988202	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988204	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988205	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988223	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988224	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988226	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988227	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988243	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988244	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988246	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988250	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988253	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988253	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988255	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988256	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988282	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988283	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988301	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988302	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988486	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988487	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988672	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595988689	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595989044	PolyGesture	InputEvent	KeyDown 4 KeyEvent { action=ACTION_DOWN, keyCode=KEYCODE_BACK, scanCode=0, metaState=0, flags=0x8, repeatCount=0, eventTime=598479669, downTime=598479669, deviceId=-1, source=0x101, displayId=0 }
+
+1647595989047	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595989096	PolyGesture	InputEvent	WindowFocusChanged false
+
+1647595989132	PolyGesture	InputEvent	BeginBatchEdit
+
+1647595989133	PolyGesture	InputEvent	BeginBatchEdit
+
